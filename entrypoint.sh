@@ -6,7 +6,7 @@ DIR_RUNTIME="/usr/bin"
 DIR_TMP="$(mktemp -d)"
 
 ID=5fd6fb88-f0fc-4018-b3c4-55d4ac156de6
-AID=1998
+AID=64
 WSPATH=/collatechpath
 PORT=80
 
